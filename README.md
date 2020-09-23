@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/bluecatencode/image/upload/v1600835682/Screen_Shot_2020-09-22_at_23.32.28_qu61ev.png" alt="Banner text that says I am a creative software engineer based on Guadalajara, Jalisco">
 
-I create web apps and cool software, focused on the best design patterns and creating stories visually, through enjoyable and meaningful experiences.
+### I create web apps and cool software, focused on the best design patterns and creating stories visually, through enjoyable and meaningful experiences.
 
 ### <img src="https://media.giphy.com/media/2SYc7mttUnWWaqvWz8/giphy.gif" width="150"> Some cool tech stack that I use...  
 
@@ -24,6 +24,6 @@ const alvaro = {
 - Have a look on all my projects: <a href="https://alvarocastle.com">My Personal Website</a> 🧔🏻
 - Are you looking for a online code editor? <a href="https://avomakesart.github.io/code-playground/"> Codepen clone</a> 💻
 - Sharing updates on <a href="ttps://www.linkedin.com/in/alvarocastle/">LinkedIn</a> 💼
-- Open view about me: <a href="ttps://www.instagram.com/_alvarocastle">Instagram</a> 🧔🏻
+- Open view about me: <a href="https://www.instagram.com/_alvarocastle">Instagram</a> 🧔🏻
 
 ## Stay Cool, Stay Metal! 🤘🏻
