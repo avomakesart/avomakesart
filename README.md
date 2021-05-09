@@ -1,4 +1,4 @@
-# Hi, I'm Alvaro 👋🏻🧔🏻☕️💻
+# Hi, I'm Alvaro Castillo 👋🏻🧔🏻☕️💻
 
 <img src="https://res.cloudinary.com/bluecatencode/image/upload/v1600835682/Screen_Shot_2020-09-22_at_23.32.28_qu61ev.png" alt="Banner text that says I am a creative software engineer based on Guadalajara, Jalisco">
 
@@ -16,7 +16,7 @@ const alvaro = {
   challenge: "Currently I am creating an open source React Component Library since January 2020"
 }
 ```
-- 🔭 I’m currently working on EPAM Systems as Software Engineer,
+- 🔭 I’m currently working on Globant as Software Engineer,
 - 🌱 I’m currently learning Elastic Search, and more about Java,
 - 💬 Ask me about music, heavy music, coffee, code and cats.
 
