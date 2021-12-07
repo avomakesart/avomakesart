@@ -16,7 +16,7 @@ const alvaro = {
   challenge: "Currently I am creating an open source React Component Library since January 2020"
 }
 ```
-- 🔭 I’m currently working on Globant as Software Engineer,
+- 🔭 I’m currently working at Altimetrik as a Staff Software Engineer,
 - 🌱 I’m currently learning Elastic Search, and more about Java,
 - 💬 Ask me about music, heavy music, coffee, code and cats.
 
