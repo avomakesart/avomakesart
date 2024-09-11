@@ -13,7 +13,7 @@ Some cool tech stack that I use...
 ```javascript
 const alvaro = {
   pronouns: "he" | "him",
-  code: [Javascript, React, React Native, Typescript, HTML, CSS, NodeJS, PHP, Java],
+  code: [Javascript, React, React Native, Typescript, HTML, CSS, NodeJS, PHP, Java, Golang, Kotlin],
   tools: [Redux, Storybook, Styled-Components, Jest, Docker, Kubernetes, SQL, NOSQL],
   architecture: ["microservices", "event-driven", "design system pattern", "Microfrontend"],
   design: [UX, AdobeCC, Sketch, Figma, Whymsical],
