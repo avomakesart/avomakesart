@@ -1,33 +1,144 @@
-# Hi, I'm Alvaro Castillo 👋🏻🧔🏻☕️💻
+<!-- ========================= -->
+<!--        BANNER           -->
+<!-- ========================= -->
 
-### Originally from Guadalajara, Jalisco, Mexico. But currently living and working in the Netherlands.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=160&section=header&text=Álvaro%20Castillo&fontSize=38&fontColor=ffffff&desc=Senior%20Software%20Engineer%20·%20Distributed%20Systems%20·%20Product%20Engineering&descAlignY=75&descAlign=50" />
+</p>
 
-## Intro
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-Tesla-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Netherlands-0A0A0A?style=for-the-badge" />
+</p>
 
-### I create web apps and cool software, focused on the best design patterns and creating stories visually, through enjoyable and meaningful experiences.
+<p align="center">
+  🇲🇽 Guadalajara → 🇳🇱 Netherlands  
+</p>
 
-### <img src="https://media.giphy.com/media/2SYc7mttUnWWaqvWz8/giphy.gif" width="150">
+<p align="center">
+  Building <b>scalable systems</b>, <b>clean architectures</b>, and <b>product-focused software</b>.
+</p>
 
-Some cool tech stack that I use...  
+---
 
-```javascript
+## 🧠 About Me
+
+I’m a **Senior Software Engineer at Tesla**, working on **distributed systems and product platforms**.
+
+My focus goes beyond shipping features — I design **systems that scale**, **architectures that remain maintainable**, and **solutions that enable teams to move fast with confidence**.
+
+I enjoy working at the intersection of:
+- System design  
+- Product thinking  
+- Developer experience  
+- Long-term maintainability  
+
+---
+
+## 🧭 Engineering Mindset
+
+> **Build systems that are easy to reason about, hard to misuse, and simple to evolve.**
+
+I care deeply about:
+- Clear ownership and boundaries  
+- Reducing complexity through design  
+- Long-term scalability over short-term hacks  
+- Making the right thing the easy thing  
+
+---
+
+## 🧩 What I Work On
+
+- Distributed systems & service architecture  
+- Platform-level backend and frontend design  
+- Performance, reliability & observability  
+- Design systems & UI architecture  
+- Developer experience & internal tooling  
+
+---
+
+## 🧠 Tech Stack
+
+```ts
 const alvaro = {
-  pronouns: "he" | "him",
-  code: [Javascript, React, React Native, Typescript, HTML, CSS, NodeJS, PHP, Java, Golang, Kotlin],
-  tools: [Redux, Storybook, Styled-Components, Jest, Docker, Kubernetes, SQL, NOSQL],
-  architecture: ["microservices", "event-driven", "design system pattern", "Microfrontend"],
-  design: [UX, AdobeCC, Sketch, Figma, Whymsical],
-  challenge: "Currently I am open to help anyone to solve problems with TypeScript magic."
-}
+  role: "Senior Software Engineer",
+  company: "Tesla",
+  focus: [
+    "Distributed systems",
+    "System design",
+    "Product platforms",
+    "Developer experience"
+  ],
+  languages: [
+    "TypeScript", "JavaScript",
+    "Go", "Java", "Kotlin", "PHP", 
+		"Scala"
+  ],
+  frontend: [
+    "React", "Next.js",
+		"Vue", "Angular",
+    "Design Systems",
+    "Micro-frontends"
+  ],
+  backend: [
+    "Node.js", "Go",
+    "GraphQL", "REST",
+    "Java", "Kotlin",
+		"Scala"
+  ],
+  infrastructure: [
+    "Docker", "Kubernetes",
+    "CI/CD", "Cloud-native"
+  ],
+  principles: [
+    "Clean architecture",
+    "Scalable systems",
+    "Readable code",
+    "Design for change"
+  ]
+};
 ```
-- 🔭 I’m currently working at bol.com as a Senior Software Engineer,
-- 🌱 I’m currently learning Elixir, and more about ML,
-- 💬 Ask me about music, heavy music, coffee, code and cats.
 
-## Find me around the web 🌎: 
-- Have a look on all my projects: <a href="https://alvarocastle.com">My Personal Website</a> 🧔🏻
-- Are you looking for a online code editor? <a href="https://avomakesart.github.io/code-playground/"> Codepen clone</a> 💻
-- Sharing updates on <a href="ttps://www.linkedin.com/in/alvarocastle/">LinkedIn</a> 💼
-- Open view about me: <a href="https://www.instagram.com/_alvarocastle">Instagram</a> 🧔🏻
+## 💼 Current Role
 
-## Stay Cool, Stay Metal! 🤘🏻
+Senior Software Engineer — Tesla
+	•	Designing and maintaining large-scale distributed systems
+	•	Driving architectural decisions across teams
+	•	Improving performance, reliability, and system clarity
+	•	Building internal platforms and shared abstractions
+	•	Collaborating closely with product, design, and infra
+
+## 🌍 Find Me Online
+
+<p align="center">
+  <a href="https://alvarocastle.com">
+    <img src="https://img.shields.io/badge/Portfolio-alvarocastle.com-0A0A0A?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/alvarocastle/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alvaro%20Castillo-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://avomakesart.github.io/code-playground/">
+    <img src="https://img.shields.io/badge/Code-Playground-222?style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/_alvarocastle">
+    <img src="https://img.shields.io/badge/Instagram-@_alvarocastle-E4405F?style=for-the-badge" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarocastle&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocastle&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🧭 North Star
+
+> Build software that scales with people, not against them.
+> Simplicity, clarity, and good design always win.
+
+
+
