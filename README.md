@@ -1,11 +1,5 @@
-<!-- ========================= -->
-
-<!--        BANNER           -->
-
-<!-- ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=160&section=header&text=Álvaro%20Castillo&fontSize=38&fontColor=ffffff&desc=Senior%20Software%20Engineer%20·%20Distributed%20Systems%20·%20Product%20Engineering&descAlignY=75&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=160&section=header&text=Alvaro%20Castillo&fontSize=38&fontColor=ffffff&desc=Senior%20Software%20Engineer%20·%20Distributed%20Systems%20·%20Product%20Engineering&descAlignY=75&descAlign=50" />
 </p>
 
 <p align="center">
