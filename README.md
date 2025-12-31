@@ -121,10 +121,7 @@ const alvaro = {
   <a href="https://www.linkedin.com/in/alvarocastle/">
     <img src="https://img.shields.io/badge/LinkedIn-Alvaro%20Castillo-0A66C2?style=for-the-badge" />
   </a>
-  <a href="https://avomakesart.github.io/code-playground/">
-    <img src="https://img.shields.io/badge/Code-Playground-222?style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/_alvarocastle">
+  <a href="https://www.instagram.com/alvarocastello777">
     <img src="https://img.shields.io/badge/Instagram-@_alvarocastle-E4405F?style=for-the-badge" />
   </a>
 </p>
