@@ -131,11 +131,11 @@ const alvaro = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alvarocastle&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=avomakesart&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alvarocastle&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avomakesart&layout=compact&theme=dark" />
 </p>
 
 -----
