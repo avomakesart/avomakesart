@@ -66,7 +66,7 @@ const alvaro = {
     "Distributed systems",
     "System design",
     "Product platforms",
-    "Developer experience"
+    "Developer experience",
   ],
   languages: [
     "TypeScript", "JavaScript",
@@ -91,6 +91,7 @@ const alvaro = {
   ],
   principles: [
     "Clean architecture",
+    "Clean UI",
     "Scalable systems",
     "Readable code",
     "Design for change"
