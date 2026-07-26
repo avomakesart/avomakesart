@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Company-Tesla-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-Bol-CC0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Netherlands-0A0A0A?style=for-the-badge" />
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-I’m a **Senior Software Engineer at Tesla**, working on **distributed systems and product platforms**.
+I’m a **Senior Software Engineer at Bol**, working on **distributed systems and product platforms**.
 
 My focus goes beyond shipping features — I design **systems that scale**, **architectures that remain maintainable**, and **solutions that enable teams to move fast with confidence**.
 
